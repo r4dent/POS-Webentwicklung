@@ -77,3 +77,5 @@ echo greet();
 
 // call by value or => ohne &
 // call by reference => mit &
+
+
